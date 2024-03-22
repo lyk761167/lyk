@@ -7,3 +7,5 @@ jieba =1.0.1
 july =4.2.1
 wordcloud=0.7.6
 matplotlib=3.7.0/3.7.2
+建议运行系统ubuntu/windows11
+在执行前请先用pa获取微信的csv文件
